@@ -1,10 +1,6 @@
-Hi, I’m Parth! I'm a sophomore at Cornell University, and I'm majoring in Math and Computer Science. I'm passionate about artificial intelligence, climate
-change, politics, and cooking!
+Hi, I’m Parth! I'm a junior at Cornell University, majoring in math and computer science.
 
-I'm currently learning about the applications of deep learning methods into personalized drug discovery with my summer research at Hunter College CUNY. I'm
-also interested in applications into computer vision and natural language processing.
+I'm interested in the fields of programming languages, machine learning, and compilers. I'm a functional programming fan!
 
 You can reach me at: ps679@cornell.edu.
-
-Thanks!
 @parthsarkar17
