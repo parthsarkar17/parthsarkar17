@@ -1,4 +1,4 @@
-Hi, I’m Parth! I'm a junior at Cornell University, majoring in math and computer science.
+Hi, I’m Parth! I'm an undergrad at Cornell University, majoring in math and computer science.
 
 I'm interested in programming languages, machine learning, and compilers. I'm a functional programming fan! I also bake and cook
 
